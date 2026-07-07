@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6f48367-8924-4f63-a1ba-c850f208d3a7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/GiftCardsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/GiftCardsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/GiftCardsValidationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/GiftCardsValidationTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="f6f48367-8924-4f63-a1ba-c850f208d3a7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "features/giftcards",
+    "git-widget-placeholder": "features/reporting-listeners",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/2497775/Downloads/Hackathon/UrbanLadderAutomation-Hackathon"
