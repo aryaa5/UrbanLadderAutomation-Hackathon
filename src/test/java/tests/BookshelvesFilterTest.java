@@ -1,7 +1,6 @@
 package tests;
 
 import com.aventstack.extentreports.Status;
-import pages.HomePage;
 import pages.SearchResultsPage;
 import utils.ScreenshotUtils;
 import org.openqa.selenium.WebElement;
