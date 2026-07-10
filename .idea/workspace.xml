@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6f48367-8924-4f63-a1ba-c850f208d3a7" name="Changes" comment="" />
+    <list default="true" id="f6f48367-8924-4f63-a1ba-c850f208d3a7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/GiftCardsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/GiftCardsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/GiftCardsValidationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/GiftCardsValidationTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +43,13 @@
     "last_opened_file_path": "C:/Users/2497750/OneDrive - Cognizant/Desktop/Hackathon/UrbanLadderAutomation-Hackathon"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f6f48367-8924-4f63-a1ba-c850f208d3a7" name="Changes" comment="" />
